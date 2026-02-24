@@ -1,5 +1,6 @@
 # Video Game Sales Analysis (1980-2020)
-
+https://www.kaggle.com/datasets/gregorut/videogamesales
+- The dataset we used for report. 
 ## Project Overview
 This data analytics project analyzes 40+ years of video game sales data to answer the question: **"What are the key factors that drive success in the global video game market?"** The analysis explores market leadership, regional preferences, and industry trends to provide actionable insights for game developers and publishers.
 
